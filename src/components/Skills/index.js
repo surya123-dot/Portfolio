@@ -53,7 +53,7 @@ const SkillsContainer = styled.div`
   flex-wrap: wrap;
   margin-top: 30px;
   gap: 30px;
-  justify-content: center;
+  justify-content: center;  
 `
 
 const Skill = styled.div`

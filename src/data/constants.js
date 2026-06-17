@@ -9,18 +9,18 @@ import ShopApp from '../images/ShopApp.png'
 
 
 export const Bio = {
-  name: "Vinay Singh",
+  name: "Surya Singh",
   roles: [
     "Full Stack Developer",
     "C++ Programmer",    
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/Vinay20621",
+  github: "https://github.com/surya123-dot",
   resume:
-    "https://drive.google.com/file/d/1LpqLKTCcOqU9_48aEFB0p4nC9ZlE_XCZ/view",
-  linkedin: "https://www.linkedin.com/in/vinay-singh-01259722b/",  
-  insta: "https://www.instagram.com/vinay2001singh/",
+     "https://drive.google.com/file/d/1LpqLKTCcOqU9_48aEFB0p4nC9ZlE_XCZ/view",
+  linkedin: "https://www.linkedin.com/in/surya-singh-6b7323344/",  
+  insta: "https://www.instagram.com/suryavashi_s07/",
  
 };
 
@@ -199,20 +199,20 @@ Developed an operations dashboard with interactive analytics for partner and cli
 export const education = [
   {
     id: 0,
-    img: "https://tse1.mm.bing.net/th?id=OIP.abO5mLuJiZfjfJnQTTfNXAAAAA&pid=Api&P=0&h=180",
-    school: "Indian Institute Of Information Technology Kalyani",
-    date: "Oct 2020 - Sep 2024",
+    img: "https://imgs.search.brave.com/DDkr3jxsxw59ismGS03Yq_OJ2VQPA0c0Kra9_dsD4vY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/OS85OC9Eci5fQS5Q/LkouX0FiZHVsX0th/bGFtX1RlY2huaWNh/bF9Vbml2ZXJzaXR5/X2xvZ28ucG5nLzUx/MnB4LURyLl9BLlAu/Si5fQWJkdWxfS2Fs/YW1fVGVjaG5pY2Fs/X1VuaXZlcnNpdHlf/bG9nby5wbmc",
+    school: "jss Academy of Technical Education",
+    date: "Oct 2024 - Sep 2028",
     grade: "8 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Indian Institute Of Information Technology Kalyani. I have completed 6 semesters and have a CGPA of 7.83. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at jss Academy of Technical Education. I have completed 4 semesters and have a CGPA of 8.2. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
     id: 1,
-    img: "https://play-lh.googleusercontent.com/WyK-h8xBFqD7X9n5RFwfJKKKvop9KMiQPXjSEY_iaNY3ysxIsnscmEEAbkyAE_3BYAYD=w240-h480",
-    school: "Chandra Prabha Public School Uttar Pradesh",
-    date: "Apr 2019 - Apr 2025",
-    grade: "77%",
-    desc: "I completed my class 12 high school education at Chandra Prabha Public School Uttar Pradesh where I studied Math.",
+    img: "https://play-lh.googleusercontent.com/NEIjAGq2QvBFzXu2o4r4UyDd-10piHplc4iXYyDbwUZQEU_a4jIi4D6Fp60P__qwNK4",
+    school: "international hindu school",
+    date: "Apr 2019 - Apr 2022",
+    grade: "92%",
+    desc: "I completed my class 12 high school education at international hindu school Uttar Pradesh where I studied Math.",
     degree: "CBSE(XII), Math",
   },
   
@@ -222,7 +222,7 @@ export const projects = [
   {
     id:0,
     title: "Wether",
-    date: "Jun 2021 - Jul 2021",
+    date: "Jun 2025 - Jul 2025",
     description:
       "In this website we can find our city weather details.You can also covert the details Unit",
     image:WetherImg,
@@ -236,76 +236,76 @@ export const projects = [
       
     ],
     category: "Full Stack",
-    github: "https://github.com/Vinay20621/weather",
+    github: "https://github.com/sury/weather",
     webapp: "https://weather-ho4l.onrender.com",
   },
   {
     id: 1,
     title: "Blog",
-    date: "Apr 2022 - june 2022",
+    date: "Apr 2025 - june 2025",
     description:
       "In this Blogify website we read some articles/blog.Feature added : Authorize User can read , create , update ,delete the blog (update and delete only his blog/article) and also comment on blog. Admin panel : Admin can read , create ,update and delete any blog also comment Admin can also delete the user."
    ,
     image:BlogImg,
     tags: ["multer","jwt","ejs", "MongoDb", "Node Js", "Express Js"],
     category: "Full Stack",
-    github: "https://github.com/Vinay20621/BlogProject",
-    webapp: "https://blogproject-vinay20621.onrender.com",
+    github: "https://github.com/surya123-dot/BlogProject",
+    webapp: "https://blogproject-surya123-dot.onrender.com",
    
   },
   {
     id: 2,
     title: "URLS Shortner",
-    date: "Aug 2023 - Nov 2023",
+    date: "Aug 2025 - Nov 2025",
     description:
       "URL SHORTENER website take a valid URL and return a shortened URL . When anyone visited  the shortened URL link than that redirect to the previously provided URL.	Also keep track of total visits/clicks on the URL. Feature added :User can see the previous generated shortened URL , number of time visited on that URL and also delete the previous shortened URL"
    ,
     image:UrlsImg,
     tags: ["multer","jwt","ejs", "MongoDb", "Node Js", "Express Js"],
     category: "Full Stack",
-    github: "https://github.com/Vinay20621/UrlsShortener",
+    github: "https://github.com/surya123-dot/UrlsShortener",
     webapp: "https://urlsshortener.onrender.com",
    
   },
   {
     id: 3,
     title: "Todo List",
-    date: "Aug 2023",
+    date: "Aug 2025 - Sep 2025",
     description:
       "In this you add edit,deleted and reverse your item. In this i also used local Storage."
    ,
     image:TodoImag,
     tags: ["react","boostrap"],
     category: "Frontent",
-    github: "https://github.com/Vinay20621/TodoList",
+    github: "https://github.com/surya123-dot/TodoList",
     webapp: "https://todo-list-5r4z.onrender.com",
    
   },
   {
     id: 4,
     title: "Random Password Generator",
-    date: "Oct 2023",
+    date: "Oct 2025",
     description:
       "In this we can generate more secure password."
    ,
     image:PasswordGenerator,
     tags: ["react","boostrap"],
     category: "Frontent",
-    github: "https://github.com/Vinay20621/Random_Password_Generator",
+    github: "https://github.com/surya123-dot/Random_Password_Generator",
     webapp: "https://random-password-generate.onrender.com/",
    
   },
   {
     id: 5,
     title: "Mega-Mart Shop App",
-    date: "Dec 2023",
+    date: "Dec 2025",
     description:
       "This app only foucus of design. In this there is many store user can see the product"
    ,
     image:ShopApp,
     tags: ["react","tailwin css"],
     category: "Frontent",
-    github: "https://github.com/Vinay20621/shop-app",
+    github: "https://github.com/surya123-dot/shop-app",
     webapp: "https://shop-app-a4d1.onrender.com/",
    
   },

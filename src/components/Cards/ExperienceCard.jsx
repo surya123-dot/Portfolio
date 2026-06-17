@@ -131,6 +131,7 @@ const ItemWrapper = styled.div`
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
+    padding-bottom:70px;
 `
 
 const Skill = styled.div`
